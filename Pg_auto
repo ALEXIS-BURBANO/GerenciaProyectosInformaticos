@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="es">
     <head>
+<<<<<<< HEAD:Pg_auto.HTML
 
 
     	 <meta http-equiv="Content-Type" content="text/html; charset="utf-8"/>
@@ -9,6 +10,8 @@
         <link rel="stylesheet" type="text/css" href="css/estilo.css">
         <link rel="stylesheet" type="text/css" href="js/prefixfree.min">
 
+=======
+>>>>>>> 2f0007031425a7752c9b6fe065567c97654430b1:Pg_auto
 
 <title>Autores</title>
 
@@ -16,7 +19,7 @@
 
 <body>
  
-<center><h1>Los autores de esta p醙ina son:</h1></center>
+<center><h1>Los autores de esta p谩gina son:</h1></center>
  
 <table summary="Tabla con los datos de los autores">
 <CENTER><TABLE border="2px" height="100px" width="200px"></CENTER>
@@ -31,13 +34,13 @@
       <img src="IMAGES/edih.jpeg.jpg" />
     </td>
     <td>
-      <p>Edith J. Guzm醤 Lozano
+      <p>Edith J. Guzm谩n Lozano
 	 <br>
-	 C骴igo: 1105781012
+	 C贸digo: 1105781012
 	 <br>
-	 Programa: Ingenier韆 de Sistemas
+	 Programa: Ingenier铆a de Sistemas
 	 <br>
-	 Correo electr髇ico: 
+	 Correo electr贸nico: 
 	 edjodana@gmail.com
 	 <br>
 	 Skype: johana.guzman65
@@ -52,11 +55,11 @@
     <td>
       <p>Lizeth Fernanda Aroca
 	 <br>
-	 C骴igo: 1.110.494.069
+	 C贸digo: 1.110.494.069
 	 <br>
-	 Programa: Ingenier韆 de Sistemas
+	 Programa: Ingenier铆a de Sistemas
 	 <br>
-	 Correo electr髇ico:lfarocag@unadvirtual.edu.co 
+	 Correo electr贸nico:lfarocag@unadvirtual.edu.co 
 	  <br>
 	 Skype: lichifer_11
 	 </p>  
@@ -71,11 +74,11 @@
     <td>
       <p> Alexis Alveiro Burbano
 	 <br>
-	 C骴igo: 1.112.222.735
+	 C贸digo: 1.112.222.735
 	 <br>
-	 Programa: Ingenier韆 de Sistemas
+	 Programa: Ingenier铆a de Sistemas
 	 <br>
-	 Correo electr髇ico:lfarocag@unadvirtual.edu.co 
+	 Correo electr贸nico:lfarocag@unadvirtual.edu.co 
 	  <br>
 	 Skype: Burban_x3
 	 </p>  
@@ -91,11 +94,11 @@
     <td>
       <p> Andrea Victoria Perez
 	 <br>
-	 C骴igo: 10198684064
+	 C贸digo: 10198684064
 	 <br>
-	 Programa: Ingenier韆 de Sistemas
+	 Programa: Ingenier铆a de Sistemas
 	 <br>
-	 Correo electr髇ico: andreaperezarias@hotmail.com
+	 Correo electr贸nico: andreaperezarias@hotmail.com
 	  <br>
 	 Skype: andreaperezarias
 	 </p>  
