@@ -128,13 +128,29 @@ ul, ol {
 	height: 650px;
 }
 
+
+#Centradol{
+
+
+	width:1420px;
+
+	height:750px;
+}
+
 #ArticuloInicio{
 
 margin:30px;
+margin-right:120px;
 border:1px solid;
 border-color:#BACADE;
 border-radius: 5px;
 padding: 4px;
+}
+
+#ArticuloGerencia{
+
+float:center;
+margin-left:40px;
 }
 
 
