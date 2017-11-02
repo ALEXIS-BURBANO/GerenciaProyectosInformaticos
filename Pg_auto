@@ -2,6 +2,12 @@
 <html lang="es">
     <head>
 
+ <meta http-equiv="Content-Type" content="text/html; charset="utf-8"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+        <link rel="stylesheet" type="text/css" href="css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="css/estilo.css">
+        <link rel="stylesheet" type="text/css" href="js/prefixfree.min">
+
 <title>Autores</title>
 
 </head>
